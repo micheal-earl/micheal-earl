@@ -6,12 +6,6 @@
   - I use tools like React and Node to get the job done, but I'm well versed in other popular libraries and frameworks!
   - Contact me on [LinkedIn](https://www.linkedin.com/in/micheal-earl/)
 
-- 🔭 I’m working on ...
-  - [substar](https://github.com/Micheal-Earl/substar)
-    - A social media website similar to Reddit
-    - A framework to create small minigames/gimmicks that tightly integrate with the social experience
-    - Think Reddit's "The Button" or "r/place", but every 3-6 months instead of every 1-2 years
-
 - 🌱 I’m learning ...
   - Solidjs
   - Meta frameworks (SolidStart, Nextjs, Astro)
